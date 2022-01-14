@@ -19,7 +19,8 @@ Acesso a documentção da api na seguinte URL : https://ficticius-clean-teste.he
 
 <p>
 Para cadastrar um carro , faça uma requisição POST para a seguinte URL : https://ficticius-clean-teste.herokuapp.com/api/carros/salvar como o exemplo a seguir :
-  
+</p>
+
   ```
   {
     "nome":"nome",
@@ -30,8 +31,6 @@ Para cadastrar um carro , faça uma requisição POST para a seguinte URL : http
     "consumoMedioRodovia":11.11
 }
 ```
-  
-</p>
 
 <p>
 Para acessar o consumo por carros , enviar uma requisição GET para a seguinte URL 
@@ -39,6 +38,8 @@ Para acessar o consumo por carros , enviar uma requisição GET para a seguinte 
   com os respectivos valores.
   
   O retorno será como o exemplo a seguir:
+  
+  </p>
   
   ```
   {
@@ -63,7 +64,7 @@ Para acessar o consumo por carros , enviar uma requisição GET para a seguinte 
 }
 ```
   
-</p>
+
 
 ## 🤖 Autor
 
